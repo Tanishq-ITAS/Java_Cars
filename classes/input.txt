@@ -1,0 +1,6 @@
+Motorcycle KawasakiNinja Green
+Truck Ford150 Red false
+Truck Ford150 Purple true
+Tesla S90 White true
+Tesla Model3 Black false
+Motorcycle YamahaScooter Blue
